@@ -21,7 +21,8 @@ So, Let’s get started.
 
 ## What are we building?
 
-It would be too verbose here to explain each and everything in the article, it would be much easier for you to see the final outcome yourself. Please visit the video and comeback again. **TODO — YOUTUBE LINK(EXACT MINUTES)**
+It would be too verbose here to explain each and everything in the article, it would be much easier for you to see the final outcome yourself. Please visit the video and comeback again. 
+https://youtu.be/jGZuJlsXHCA?t=95
 
 ## How are we building?
 
